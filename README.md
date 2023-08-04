@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning **Microservices using spring boot,and frameworks like DJANGo,electron**
 
-- 👯 I’m looking to collaborate on **on an open source project focused on cloud application development(ios)**
+- 👯 I’m looking to collaborate on **on an open source project focused on cloud application development.
 
 - 💬 Ask me about **CQL,SQL,DSA,ANDROID APP DEV.**
 
-- 📫 How to reach me **harsitkumar777@gmail.com** or harsit.cs20@bmsce.ac.in 
+- 📫 How to reach me **harsitkumar777@gmail.com** or **harsit.cs20@bmsce.ac.in** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
