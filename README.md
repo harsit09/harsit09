@@ -5,10 +5,9 @@
 - 🔭 I’m currently working on **building a multi platform mobile app that is focused to provide reliable sources of research and development in CSE AND DEVELOPMENT AND BREAKTHROUGHS IN          HARDWARE AND SOFTWARE**
 
 - 🌱 I’m currently learning **Microservices using spring boot,and frameworks like DJANGo,electron**
+-  ❌What I don't have much practice of - **mobile app dev, css, angular, typescript**
 
-- 👯 I’m looking to collaborate on **on an open source project focused on cloud application development.**
-
-- 💬 Ask me about **CQL,SQL,DSA,ANDROID APP DEV.**
+- 💬 Ask me about **CQL,SQL,DSA,Java,cloud,networks,docker.**
 
 - 📫 How to reach me **harsitkumar777@gmail.com** or **harsit.cs20@bmsce.ac.in** 
 
