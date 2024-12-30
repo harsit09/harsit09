@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web developer from India</h3>
 <img align="centre" alt= coding width ="1920" src ="https://raw.githubusercontent.com/mosh3eb/Portfolio_Page/main/images/bg.gif"
 
-- 🔭 I’m currently working on **building a multi platform mobile app that is focused to provide reliable sources of research and development in CSE AND DEVELOPMENT AND BREAKTHROUGHS IN          HARDWARE AND SOFTWARE**
+- 🔭 I’m currently working on **building a multi platform mobile app that is focused to provide reliable sources of research and development in tech domain
 
 - 🌱 I’m currently learning **Microservices using spring boot,and frameworks like DJANGo,electron**
 -  ❌What I don't have much practice of - **mobile app dev, css, angular, typescript**
@@ -27,7 +27,6 @@
 
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="TypeScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Angular" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
 <img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
