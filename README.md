@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Harsit Kumar (undergrad in CSE at BMSCE,Bangalore,Karnataka,INDIA)</h1>
 <h3 align="center">An evolving developer from India</h3>
-<img align="centre" alt= coding width ="1920" src ="https://raw.githubusercontent.com/mosh3eb/Portfolio_Page/main/images/bg.gif"
+<img align="centre" alt= coding width ="1920" src ="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47ekpdzq5j0lklnwehjb6e7fjfb6rchfblc7jzxl2z&ep=v1_gifs_search&rid=giphy.gif&ct=g"
+<img align="bottom" alt= coding width ="1200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTg0cXl2d3U4cmlqdWw4YzJndnBiZ285aGc5bTA0YjJ5b2hpeGNhOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pUVOeIagS1rrqsYQJe/giphy.gif"
 
-- 🔭 I’m currently working on **building a multi platform mobile app that is focused to provide reliable sources of research and development in tech domain
+- 🔭 I’m currently working on **building a multi platform mobile app that is focused to provide reliable sources of research and development in tech domain**
 
-- 🌱 I’m currently learning **Microservices using spring boot,and frameworks like DJANGo,electron**
--  ❌What I don't have much practice of - **mobile app dev, css, angular, typescript**
+- 🌱 I’m currently learning **Microservices using spring boot,and other frameworks**
+  
+- ❌ What I don't have much practice of - **mobile app dev, css, angular, typescript**
 
 - 💬 Ask me about **CQL,SQL,DSA,Java,cloud,networks,docker.**
 
